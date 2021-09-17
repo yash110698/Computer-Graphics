@@ -1,0 +1,1 @@
+ffmpeg -framerate 30 -i captures/%d.ppm -c:v mpeg4 -q 5 hifi.mp4
