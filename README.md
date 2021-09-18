@@ -22,34 +22,34 @@ The final grade awarded will depend upon the exact combination and features and 
 3. Hard Shadow ✅
 4. Some form of generative geometry ✅
 5. Ambient lighting ✅
-6. Diffuse lighting (proximity and angle-of-incidence)✅
+6. Diffuse lighting (proximity and angle-of-incidence) ✅
 <br/>
 
 ## To get into `60s` you must ALSO implement SOME of…
 1. Gouraud shading 
 2. Naive (non-perspective corrected) texture mapping ✅
-3. Simple animation (e.g. fly-through)✅
+3. Simple animation (e.g. fly-through) ✅
 4. Some form of Physics (gravity, friction, bounce etc)
-5. Basic culling (far-plane, near-plan, back-face)✅
+5. Basic culling (far-plane, near-plan, back-face) ✅
 6. Basic anti-aliasing✅
 <br/>
 
 ## To get into `70s` you must ALSO implement SOME of…
 1. Phong Shading
 2. Fairly “interesting” materials (e.g. mirrors) ✅
-3. Complex anti-aliasing✅
-4. Perspective corrected texture mapping ‼️✅
-5. “Fancy” animation✅
+3. Complex anti-aliasing ✅
+4. Perspective corrected texture mapping ✅
+5. “Fancy” animation ✅
 6. Soft shadow
-7. Bump maps
+7. Bump maps ✅
 8. Environment maps
-9. Basic clipping (bounding box)✅
+9. Basic clipping (bounding box) ✅
 <br/>
 
 ## To get `80` and above you must ALSO implement SOME of…
-1. Complex “interesting” materials (e.g. glass)✅
+1. Complex “interesting” materials (e.g. glass) ✅
 2. Line drawing optimisations (e.g. Bresenham) ✅
-3. Advance clipping (frustum)✅
+3. Advance clipping (frustum) ✅
 4. Photon maps and caustics
 5. “Intelligent” model simplification
 <br/>
